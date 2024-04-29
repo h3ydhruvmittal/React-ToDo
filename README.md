@@ -2,7 +2,7 @@
 
 This project contains contains a simple ToDo Application
 
-It has the following features:
+    It has the following features:
         -Anyone can create a Todo
         -Anyone can see their existing ToDo
         -Anyone can mark a ToDo as Done
